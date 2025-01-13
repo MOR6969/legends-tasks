@@ -1,5 +1,5 @@
-author 'MOR & Code101'
-description 'Blackmarket & Supply Backend for Red Dead'
+author 'MOR'
+description 'A simple RedM script for managing mission tasks'
 version '1.0.0'
 game 'rdr3'
 fx_version 'cerulean'
@@ -15,6 +15,5 @@ files {
     'html/index.html',
     'html/style.css',
     'html/fonts/**/*',
-    'html/script.js',
-    'html/images/**/*'
+    'html/script.js'
 }
